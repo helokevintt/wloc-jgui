@@ -14,7 +14,7 @@
 https://raw.githubusercontent.com/Yu9191/wloc/refs/heads/main/modules/wloc.sgmodule
 
 **Quantumult X:**
-https://raw.githubusercontent.com/Yu9191/wloc/refs/heads/main/modules/wloc.conf
+https://raw.githubusercontent.com/helokevintt/wloc-jgui/refs/heads/main/modules/wloc.conf
 
 **Loon:**
 https://raw.githubusercontent.com/Yu9191/wloc/refs/heads/main/modules/wloc.lpx
