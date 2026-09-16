@@ -11,16 +11,16 @@
 ## 订阅地址
 
 **Surge:**
-https://raw.githubusercontent.com/Yu9191/wloc/refs/heads/main/modules/wloc.sgmodule
+https://github.com/helokevintt/wloc-jgui/blob/main/modules/wloc.sgmodule
 
 **Quantumult X:**
 https://raw.githubusercontent.com/helokevintt/wloc-jgui/refs/heads/main/modules/wloc.conf
 
 **Loon:**
-https://raw.githubusercontent.com/Yu9191/wloc/refs/heads/main/modules/wloc.lpx
+https://raw.githubusercontent.com/helokevintt/wloc-jgui/refs/heads/main/modules/wloc.lpx
 
 **Stash:**
-https://raw.githubusercontent.com/Yu9191/wloc/refs/heads/main/modules/wloc.stoverride
+https://raw.githubusercontent.com/helokevintt/wloc-jgui/refs/heads/main/modules/wloc.stoverride
 
 **Shadowrocket(小火箭):**
 https://raw.githubusercontent.com/Yu9191/wloc/refs/heads/main/modules/wloc.module
