@@ -33,8 +33,8 @@ https://raw.githubusercontent.com/helokevintt/wloc-jgui/refs/heads/main/modules/
 
 直接用快捷指令切换 / 清除定位，无需打开选点页面：
 
-- **wloc 设置地理位置**：https://www.icloud.com/shortcuts/a82717d8fdad4e6280866fcf911173f7
-- **wloc 清理恢复位置**：https://www.icloud.com/shortcuts/f42632d406504f24a2cd163af4fe012f
+- **wloc 设置地理位置**：https://www.icloud.com/shortcuts/31c2c2e47db840319c9810d3731747f6
+- **wloc 清理恢复位置**：https://www.icloud.com/shortcuts/5b8eb06a96ec4a698d059b2db80bc24c
 
 **用法**
 
@@ -207,7 +207,7 @@ cd worker && npm install && npm test
 
 **一键部署（Workers）：**
 
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Yu9191/wloc/tree/main/worker)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/helokevintt/wloc-jgui/tree/main/worker)
 
 > 一键部署仅支持 Workers 模式，点击按钮后按提示授权即可完成部署。
 
@@ -215,7 +215,7 @@ cd worker && npm install && npm test
 
 ```bash
 # 1. 克隆仓库
-git clone https://github.com/Yu9191/wloc.git
+git clone https://github.com/helokevintt/wloc.git
 cd wloc/worker
 
 # 2. 安装依赖
